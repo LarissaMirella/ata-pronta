@@ -93,4 +93,4 @@ GUIA_INICIANTE.md passo a passo para rodar
 LICENSE           licença MIT
 ```
 
-*Projeto construído com apoio de IA.*
+*Projeto construído com apoio de IA. Testei a integração com o Claude usando uma chave de API, comparei o resultado com o modo demonstração e ajustei o prompt para gerar resumos de até 2 frases.*
