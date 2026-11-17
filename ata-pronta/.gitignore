@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store
+# resultados gerados ficam só no seu computador (menos a pasta vazia):
+resultados/*
+!resultados/.gitkeep
